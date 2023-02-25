@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Hotel Reservation.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="Hotel Reservation.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="7.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -62,22 +62,22 @@
       <dsig:DigestValue>JOSxXk+K+vQoTqVhfXHGRmvLSl2jkptGi7x9wHKkbTY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Hotel Reservation.dll" size="6656">
+  <file name="Hotel Reservation.dll" size="6144">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>jmMnQ8kB8Ji4c7tdcL9xitIaDi9z5NO9sMY8ld8bY3k=</dsig:DigestValue>
+      <dsig:DigestValue>U/VbxsySrjzgr8r3dbrfClKBxx81wURI/L/vOgOujiU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Hotel Reservation.exe" size="154112">
+  <file name="Hotel Reservation.exe" size="153600">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>8PcD2qDLQmRHzQEgfG0l+ku+fyL7vOpm33wX6/3X7cY=</dsig:DigestValue>
+      <dsig:DigestValue>pH95TGFm4N1FRLbck2uxagrSPQOvOfflTUfiHqyIaI4=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Hotel Reservation.runtimeconfig.json" size="372">
