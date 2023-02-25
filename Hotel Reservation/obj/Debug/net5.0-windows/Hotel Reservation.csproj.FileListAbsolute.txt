@@ -1,0 +1,7 @@
+D:\coding\HotelRegistration\Hotel Reservation\obj\Debug\net5.0-windows\Hotel Reservation.csproj.AssemblyReference.cache
+D:\coding\HotelRegistration\Hotel Reservation\obj\Debug\net5.0-windows\Hotel_Reservation.Form1.resources
+D:\coding\HotelRegistration\Hotel Reservation\obj\Debug\net5.0-windows\Hotel Reservation.csproj.GenerateResource.cache
+D:\coding\HotelRegistration\Hotel Reservation\obj\Debug\net5.0-windows\Hotel Reservation.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\HotelRegistration\Hotel Reservation\obj\Debug\net5.0-windows\Hotel Reservation.AssemblyInfoInputs.cache
+D:\coding\HotelRegistration\Hotel Reservation\obj\Debug\net5.0-windows\Hotel Reservation.AssemblyInfo.cs
+D:\coding\HotelRegistration\Hotel Reservation\obj\Debug\net5.0-windows\Hotel Reservation.csproj.CoreCompileInputs.cache
