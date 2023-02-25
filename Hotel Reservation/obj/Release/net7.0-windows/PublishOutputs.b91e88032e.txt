@@ -1,0 +1,5 @@
+D:\coding\HotelRegistration\Hotel Reservation\bin\Release\net7.0-windows\app.publish\Hotel Reservation.exe
+D:\coding\HotelRegistration\Hotel Reservation\bin\Release\net7.0-windows\app.publish\Hotel Reservation.dll
+D:\coding\HotelRegistration\Hotel Reservation\bin\Release\net7.0-windows\app.publish\Hotel Reservation.deps.json
+D:\coding\HotelRegistration\Hotel Reservation\bin\Release\net7.0-windows\app.publish\Hotel Reservation.runtimeconfig.json
+D:\coding\HotelRegistration\Hotel Reservation\bin\Release\net7.0-windows\app.publish\Hotel Reservation.pdb
